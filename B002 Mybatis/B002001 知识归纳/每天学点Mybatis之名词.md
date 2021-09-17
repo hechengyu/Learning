@@ -1,0 +1,1 @@
+`ORM`：对象关系映射。对象关系映射（英语：Object Relational Mapping，简称*ORM*，或O/RM，或O/R mapping）
